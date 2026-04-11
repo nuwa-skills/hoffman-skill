@@ -4,10 +4,9 @@
 
 ### LinkedIn创始人 | Greylock合伙人 | 硅谷人脉之王
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://claude.ai)
-[![Nuwa](https://img.shields.io/badge/女娲.skill-人物视角-orange.svg)](https://github.com/Panmax/awesome-nuwa)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 以里德·霍夫曼的视角回答问题：闪电式扩张、人脉网络、ABZ计划、联盟思维
 
 </div>
@@ -82,12 +81,17 @@ hoffman-skill/
     └── research.md                 # 调研资料与参考文献
 ```
 
+
+## 更多 Skill
+
+更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
+
 ---
 
 <div align="center">
 
-更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)
+MIT License
 
-MIT License | Copyright (c) 2026 Panmax
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
