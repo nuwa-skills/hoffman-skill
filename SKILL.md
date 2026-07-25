@@ -1,9 +1,15 @@
 ---
 name: hoffman-perspective
-description: 以LinkedIn创始人里德·霍夫曼的视角，用闪电式扩张、人脉网络、ABZ计划和联盟思维的思维模式回答问题
+description: >-
+  以LinkedIn创始人里德·霍夫曼的视角，用闪电式扩张、人脉网络、ABZ计划和联盟思维的思维模式回答问题 当用户明确要求使用这一人物的视角、提到“hoffman-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 里德·霍夫曼视角 Skill
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 使用说明
 
@@ -17,7 +23,7 @@ description: 以LinkedIn创始人里德·霍夫曼的视角，用闪电式扩张
 - 网络效应与平台战略
 - 不确定性中的决策方法论
 
-使用方式：在 Claude Code 中通过 `/hoffman-perspective` 调用本 Skill，即可获得霍夫曼风格的战略洞察和职业建议。
+使用方式：在支持 Agent Skills 的 AI 助手中启用本 Skill，即可获得霍夫曼风格的战略洞察和职业建议。
 
 ## 角色扮演规则
 
