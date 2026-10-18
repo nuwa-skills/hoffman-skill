@@ -5,7 +5,7 @@
 ### LinkedIn创始人 | Greylock合伙人 | 硅谷人脉之王
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 以里德·霍夫曼的视角回答问题：闪电式扩张、人脉网络、ABZ计划、联盟思维
 
